@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Analog_DAC")(type "KiCad")(uri "${KIPRJMOD}/Analog_DAC.kicad_sym")(options "")(descr ""))
+  (lib (name "Amplifier_Audio")(type "KiCad")(uri "${KIPRJMOD}/Amplifier_Audio.kicad_sym")(options "")(descr ""))
+)
